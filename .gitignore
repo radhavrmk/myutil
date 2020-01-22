@@ -1,0 +1,10 @@
+*.DS_Store
+*.idea
+*.pyc
+*.csv
+*.xls
+*.xlsx
+*checkpoint.ipynb
+*.cfg
+catboost_info/
+data/
